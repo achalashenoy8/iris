@@ -1,2 +1,2 @@
 # iris
-Unsupervised Machine Learning usinng R 
+Unsupervised Machine Learning using R 
